@@ -15,6 +15,7 @@ set :linked_files, %w[
   config/secrets.yml
   config/solr.yml
   config/blacklight.yml
+  config/environments/production.rb
 ]
 
 # Extended Server Syntax
